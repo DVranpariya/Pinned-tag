@@ -1,0 +1,85 @@
+name: plnned
+description: A new Flutter application.
+version: 1.7.12+12
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  connectivity: ^0.4.9+2
+  flutter_statusbarcolor: ^0.2.3
+  geolocator: ^5.3.2+2
+  cached_network_image: ^2.2.0+1
+  url_launcher: ^5.7.0
+  image_picker: ^0.6.1+8
+  flutter_slidable: ^0.5.7
+  toast: ^0.1.5
+  shared_preferences: ^0.4.0
+  flutter_facebook_login: ^3.0.0
+  google_sign_in: ^4.5.1
+  firebase_dynamic_links: ^0.5.3
+  contacts_service: ^0.4.6
+  sign_in_with_apple: ^2.5.2
+  dio: ^3.0.10
+  dio_http_cache: ^0.2.11
+  modal_progress_hud: ^0.1.3
+  device_id: ^0.2.0
+  socket_io_client: ^0.9.10
+  qr_flutter: ^3.2.0
+  flutter_nfc_kit: ^2.0.5
+  flutter_appavailability: ^0.0.21
+  webview_flutter: ^1.0.6
+  page_indicator: ^0.3.0
+  share: ^2.0.4
+  in_app_purchase: ^0.3.4+16
+  flutter_inapp_purchase: ^3.0.1
+  path_provider: ^1.6.27
+  esys_flutter_share: ^1.0.2
+  screenshot: ^0.3.0
+  permission_handler: ^5.1.0+2
+  image_gallery_saver: ^1.6.9
+  provider: ^5.0.0
+  image_cropper: ^1.4.1
+  gallery_saver: ^2.0.3
+#  cached_network_image: ^2.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+   uses-material-design: true
+   assets:
+     - assets/
+     - assets/social_icon/
+     - assets/social_icn/
+
+   fonts:
+     - family: flatoregular
+       fonts:
+         - asset: flato/Lato-Regular.ttf
+
+     - family: flatosemiboald
+       fonts:
+         - asset: flato/Lato-Semibold.ttf
+
+     - family: alien
+       fonts:
+         - asset: falien/Alien.ttf
+
+     - family: PoppinsBold
+       fonts:
+         - asset: Font/Poppins-Bold.ttf
+
+     - family: PoppinsMedium
+       fonts:
+         - asset: Font/Poppins-Medium.ttf
+
+     - family: PoppinsRegular
+       fonts:
+         - asset: Font/Poppins-Regular.ttf

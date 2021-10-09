@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "219581200143",
+    "firebase_url": "https://pinned-ad50a.firebaseio.com",
+    "project_id": "pinned-ad50a",
+    "storage_bucket": "pinned-ad50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219581200143:android:539daed86b0c43578cf07a",
+        "android_client_info": {
+          "package_name": "com.pinned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219581200143-a2siie0g7m7lne1chan74h2ufntmgasr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinned",
+            "certificate_hash": "1be5e2b03f6f123e54f5f4b0760f9b1b517c1f42"
+          }
+        },
+        {
+          "client_id": "219581200143-cl517si7jdqrddimc94i9a544rj7k4j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinned",
+            "certificate_hash": "49eaf06095d8d9f0b3eb2967c3043c7d1cb53a0a"
+          }
+        },
+        {
+          "client_id": "219581200143-h038fu40otvbl9vpaup43jdunthgvo3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinned",
+            "certificate_hash": "831db98af815466a2fc6a811529a784a5131abd5"
+          }
+        },
+        {
+          "client_id": "219581200143-o23dc6prent1l1lv7nhriu0i1d4oi7pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHIW43zEueTRGjx-K81FQqpvTf84ENhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219581200143-o23dc6prent1l1lv7nhriu0i1d4oi7pj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219581200143-nqh80shkfga0al43dg1cuoh1123jmftb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plnned"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
